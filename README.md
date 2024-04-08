@@ -1,2 +1,2 @@
 # assets
-Assets for Rsvim
+Assets for RSVIM.
