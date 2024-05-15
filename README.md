@@ -1,2 +1,3 @@
-# assets
+# RSVIM Assets
+
 Assets for RSVIM.
