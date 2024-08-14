@@ -22,4 +22,8 @@ With SVG editing tools:
 
 4. Convert the `RSVIM-logo.svg` into a square-sized PNG with command:
 
-   > `rsvg-convert RSVIM-logo.svg -z 20 --page-width 5860 --page-height 5860 --top 1180 --left 150 -o RSVIM-logo.png`
+   > `rsvg-convert RSVIM-logo.svg -z 20 --page-width 5860 --page-height 5860 --top 1180 --left 150 -o RSVIM-logo-square.png`
+
+5. Convert the `RSVIM-logo.svg` into a square-sized white-background PNG with command:
+
+   > `rsvg-convert RSVIM-logo.svg -z 20 --page-width 5860 --page-height 5860 --top 1180 --left 150 --background-color white -o RSVIM-logo-square-whitebg.png`
