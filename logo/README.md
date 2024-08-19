@@ -27,3 +27,7 @@ With SVG editing tools:
 5. Convert the `RSVIM-logo.svg` into a square-sized white-background PNG with command:
 
    > `rsvg-convert RSVIM-logo.svg -z 20 --page-width 5860 --page-height 5860 --top 1180 --left 150 --background-color white -o RSVIM-logo-square-whitebg.png`
+
+## The Orange Crab Logo
+
+- [rustacean-flat-noshadow.svg](https://rustacean.net/assets/rustacean-flat-noshadow.svg).
