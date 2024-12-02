@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="160mm"
+   viewBox="0 0 300 160"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="RsvimLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2396198"
+     inkscape:cx="456.59159"
+     inkscape:cy="257.33696"
+     inkscape:window-width="1872"
+     inkscape:window-height="1027"
+     inkscape:window-x="54"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#f74c00;fill-opacity:1;stroke-width:0.392125"
+       id="path1"
+       cx="80"
+       cy="80"
+       r="50" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.680307"
+       id="path2"
+       cx="80"
+       cy="80"
+       r="40" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:101.599px;font-family:Kefa;-inkscape-font-specification:'Kefa Bold Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f74c00;fill-opacity:1;stroke-width:0.52916"
+       x="44.956047"
+       y="112.09952"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:101.599px;font-family:Kefa;-inkscape-font-specification:'Kefa Bold Italic';fill:#f74c00;fill-opacity:1;stroke-width:0.52916"
+         x="44.956047"
+         y="112.09952">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Noto Nastaliq Urdu';-inkscape-font-specification:'Noto Nastaliq Urdu';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f74c00;fill-opacity:1;stroke-width:0.264583"
+       x="126.67963"
+       y="112.09465"
+       id="text2-1"><tspan
+         sodipodi:role="line"
+         id="tspan2-4"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:Kefa;-inkscape-font-specification:'Kefa Bold Italic';fill:#f74c00;fill-opacity:1;stroke-width:0.264583"
+         x="126.67963"
+         y="112.09465">SVIM</tspan></text>
+    <circle
+       style="fill:#f74c00;fill-opacity:1;stroke-width:0.627467;stroke-dasharray:none"
+       id="path30"
+       cx="30"
+       cy="30"
+       r="5" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.322332;stroke-dasharray:none"
+       id="path31"
+       cx="30"
+       cy="30"
+       r="2.5" />
+  </g>
+</svg>
