@@ -20,7 +20,7 @@ With SVG editing tools:
 
 1. Convert the `RSVIM-logo.svg` into PNG with command:
 
-   > `rsvg-convert RSVIM-logo.svg -z 20 -o RSVIM-logo.png`
+   > `magick -density 960 RSVIM-logo.svg RSVIM-logo.png`
 
 2. Convert the `RSVIM-logo.svg` into a square-sized PNG with command:
 
