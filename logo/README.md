@@ -14,18 +14,9 @@ With SVG editing tools:
 - [figma](https://www.figma.com/design) for editing SVG images.
 - [Imagemagick](https://imagemagick.org/) and [Inkscape](https://inkscape.org/) for converting SVG to PNG images.
 
-## Images
+Convert SVG to PNG images:
 
 > Note: Below commands are running on a mac M1 chip.
 
-1. Convert the `RSVIM-logo.svg` into PNG with command:
-
-   > `magick -density 960 RSVIM-logo.svg RSVIM-logo.png`
-
-2. Convert the `RSVIM-logo.svg` into a square-sized PNG with command:
-
-   > `rsvg-convert RSVIM-logo.svg -z 20 --page-width 5860 --page-height 5860 --top 1180 --left 150 -o RSVIM-logo-square.png`
-
-3. Convert the `RSVIM-logo.svg` into a square-sized white-background PNG with command:
-
-   > `rsvg-convert RSVIM-logo.svg -z 20 --page-width 5860 --page-height 5860 --top 1180 --left 150 --background-color white -o RSVIM-logo-square-whitebg.png`
+- Convert the rectangle `RSVIM-logo.svg` to `RSVIM-logo.png` with: `magick -density 960 RSVIM-logo.svg RSVIM-logo.png`
+- Convert the rectangle `RSVIM-logo-square.svg` to `RSVIM-logo-square.png` with: `magick -density 960 RSVIM-logo-square.svg RSVIM-logo-square.png`
